@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d741bd8-afd5-4d2c-8146-a777b988b548" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/artifacts/java_ear_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1day/1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1day/hello.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1day/hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/2day.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/ArrayTool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/Array_demo/Array_demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/Data_type/Data_type.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/Demo1_Scale/Demo1_Scale.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/Demo2_Char/Demo2_Char.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/Demo_ArrayTool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/GameDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/Input/Input.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/META-INF/2day.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/MathDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/Object_Constructor/Object_Contructor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/Object_Constructor/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/Person1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/Phone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/Student_demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/Tel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/ArrayTool.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/allclasses-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/allpackages-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/constant-values.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/deprecated-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/element-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/index-all.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/jquery/external/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/jquery/images/ui-bg_glass_55_fbf9ee_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/jquery/images/ui-bg_glass_65_dadada_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/jquery/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/jquery/images/ui-bg_glass_95_fef1ec_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/jquery/images/ui-icons_222222_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/jquery/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/jquery/images/ui-icons_454545_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/jquery/images/ui-icons_888888_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/jquery/images/ui-icons_cd0a0a_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/jquery/jquery-3.3.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/jquery/jquery-migrate-3.0.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/jquery/jquery-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/jquery/jquery-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/jquery/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/jquery/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/jquery/jquery-ui.structure.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/jquery/jquery-ui.structure.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/jquery/jszip-utils/dist/jszip-utils-ie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/jquery/jszip-utils/dist/jszip-utils-ie.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/jquery/jszip-utils/dist/jszip-utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/jquery/jszip-utils/dist/jszip-utils.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/jquery/jszip/dist/jszip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/jquery/jszip/dist/jszip.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/member-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/member-search-index.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/package-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/package-search-index.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/resources/glass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/resources/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/type-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/apidoc/type-search-index.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/bijiao_demo/bijiao_demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/out/production/2day/day2/demo/Demo1_Constant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/ArrayTool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/Array_demo/Array_demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/Data_type/Data_type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/Demo1_Scale/Demo1_Scale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/Demo2_Char/Demo2_Char.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/Demo_ArrayTool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/GameDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/Input/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/MathDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/Object_Constructor/Object_Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/Student_demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/Tel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/ArrayTool.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/allclasses-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/allpackages-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/constant-values.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/deprecated-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/element-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/index-all.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/jquery/external/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/jquery/images/ui-bg_glass_55_fbf9ee_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/jquery/images/ui-bg_glass_65_dadada_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/jquery/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/jquery/images/ui-bg_glass_95_fef1ec_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/jquery/images/ui-icons_222222_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/jquery/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/jquery/images/ui-icons_454545_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/jquery/images/ui-icons_888888_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/jquery/images/ui-icons_cd0a0a_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/jquery/jquery-3.3.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/jquery/jquery-migrate-3.0.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/jquery/jquery-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/jquery/jquery-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/jquery/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/jquery/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/jquery/jquery-ui.structure.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/jquery/jquery-ui.structure.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/jquery/jszip-utils/dist/jszip-utils-ie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/jquery/jszip-utils/dist/jszip-utils-ie.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/jquery/jszip-utils/dist/jszip-utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/jquery/jszip-utils/dist/jszip-utils.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/jquery/jszip/dist/jszip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/jquery/jszip/dist/jszip.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/member-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/member-search-index.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/package-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/package-search-index.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/resources/glass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/resources/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/type-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/apidoc/type-search-index.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/bijiao_demo/bijiao_demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2day/src/day2/demo/Demo1_Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3day.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3day/Demo1Code.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3day/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo1Code.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面向对象.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../张孝祥java就业面试宝典.chm" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Demo1Code.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="e#330#331#0" expanded="true" />
+                <element signature="e#373#374#0" expanded="true" />
+                <element signature="e#411#412#0" expanded="true" />
+                <element signature="e#461#462#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="62">
+              <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Demo1Code.java" />
+        <option value="$PROJECT_DIR$/../.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="842" />
+    <option name="y" value="98" />
+    <option name="width" value="910" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582041781600" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.scopes" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Demo1Code" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo1Code" />
+      <module name="3day" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo1Code" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d741bd8-afd5-4d2c-8146-a777b988b548" name="Default Changelist" comment="" />
+      <created>1581955072239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581955072239</updated>
+      <workItem from="1581955075362" duration="1617000" />
+      <workItem from="1582035527498" duration="2683000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4300000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="842" y="98" width="910" height="970" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24946846" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="UI Designer" order="6" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32962963" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Flutter Performance" order="12" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Flutter Inspector" order="5" />
+      <window_info anchor="right" id="Flutter Outline" order="6" />
+      <window_info anchor="right" id="Key Promoter X" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Capture Analysis" order="11" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/面向对象.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Demo1Code.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>3day</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

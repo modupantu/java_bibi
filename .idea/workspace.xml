@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e81723ac-5dd2-42bb-913c-537269e306ca" name="Default Changelist" comment="" />
+    <list default="true" id="e81723ac-5dd2-42bb-913c-537269e306ca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/4day/final_demo/final_demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3day/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3day/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3day/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3day/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4day/final_demo/src/Demo1_final.java" beforeDir="false" afterPath="$PROJECT_DIR$/4day/final_demo/src/Demo1_final.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,7 +17,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -31,7 +42,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -39,20 +49,26 @@
               <item name="java" type="b2602c69:ProjectViewProjectNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="5day" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581522483535" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/5day" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -127,16 +143,18 @@
       <workItem from="1566490158246" duration="27000" />
       <workItem from="1581520974782" duration="1737000" />
       <workItem from="1581955028636" duration="45000" />
+      <workItem from="1582212834880" duration="30000" />
+      <workItem from="1582470441868" duration="47000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4485000" />
+    <option name="totallyTimeSpent" value="4562000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="420" y="40" width="1471" height="970" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26364282" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27073" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -208,7 +226,7 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>unnamed</last-edited>
+          <last-edited>java:ear exploded</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -221,7 +239,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited>JavaEE Application</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -256,7 +274,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>java</last-edited>
+          <last-edited>5day</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

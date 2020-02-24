@@ -17,7 +17,7 @@ public static void main(String[] a){
 		Person1 p =new SuperMan1();
 		System.out.println(p.name);
 		p.show();
-		((SuperMan1) p).fly();//强制转换
+		((SuperMan1) p).fly();//强制向下转型
 	}
 }
 
